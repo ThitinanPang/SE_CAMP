@@ -1,0 +1,28 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/71/9e/80/719e80760999b4c355a723224120eb07.png');
+}
+h1{
+    text-align: center;
+}
+.box{
+    
+    width: 400px;
+    height: 400px;
+    color: rgb(0, 0, 0);
+    background-color:rgb(241, 127, 61);
+    text-align: center;
+    border: 5px dashed rgb(0, 0, 0);
+    padding-top: 10px;
+    margin: 50px 25px;
+    margin-left: 650px;
+}
+.music{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.box:hover{
+    background-image: url('344524843_877387520648778_2708054701053423384_n.png');
+    background-size: cover;
+    background-color:rgb(37, 221, 227);
+    
+}
