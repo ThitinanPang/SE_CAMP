@@ -20,7 +20,7 @@
     #enter{
         color: #fff;
         font-weight:bold ;
-        background-color: #30426A;
+        background-color: #13cf45;
         width: 100px;
         height: 30px;
         border-radius: 10px;
@@ -29,7 +29,7 @@
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     }
     #enter:hover{
-        background-color: #5171b6;
+        background-color: #000000;
         cursor: pointer;
         transition: 0.2s;
     }
